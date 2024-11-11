@@ -38,7 +38,7 @@
       <matchCondition>equals</matchCondition>
       <name>Cookie</name>
       <type>Main</type>
-      <value>token=ee6d96460c5e052</value>
+      <value>token=f9577ace754e73a</value>
       <webElementGuid>c8247317-a9c6-4c70-ac26-8029bee5f665</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
@@ -54,7 +54,7 @@
    <migratedVersion>5.4.1</migratedVersion>
    <path></path>
    <restRequestMethod>PUT</restRequestMethod>
-   <restUrl>${GlobalVariable.baseURL}/booking/2012</restUrl>
+   <restUrl>${GlobalVariable.baseURL}/booking/1936</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
